@@ -1,0 +1,13 @@
+body{
+    width: 60rem;
+    margin: 0 auto;
+    background-color: #E4DAD8;
+}
+.profile-image{
+    width: 6rem;
+    height: 6rem;
+
+}
+.title-name{
+    color: coral;
+}
